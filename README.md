@@ -6,3 +6,5 @@ CSGOSimple: https://www.kaggle.com/datasets/christianlillelund/csgo-round-winner
 EV: 
   * https://catalog.data.gov/dataset/electric-vehicle-population-size-history-by-county
   * https://catalog.data.gov/dataset/electric-vehicle-population-data
+  * https://www.energy.gov/timeline-history-electric-car
+  * https://www.energy.gov/articles/history-electric-car
