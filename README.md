@@ -1,11 +1,13 @@
 # 225Project
 
 ### Remaining Analysis Tasks
-* [ ] Geometric Heatmap using the coords in one of the datasets
+* Note: reasoning for using mean of diff between november and december is b/c monthly trends may affect, we can predict with linear regression, but that takes acocunt trend of that year only. Similar to how we can expect more gift purchases in December due to the holidarys, but using linear regression will not account for this repetitive spike.
+
 * [ ] Map out top brand in all of Washington
 * [ ] Map out top brand in each county
 * [ ] Cluster prediction using the coords and the brand.
     * Evaluate on the number of k's and use best.
+ 
 
 ### Datasets
 **Main Datasets**
