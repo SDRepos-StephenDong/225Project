@@ -1,11 +1,6 @@
 # 225Project
 
 ### Remaining Analysis Tasks
- **However, it's possible we don't have the rest of the december data yet if we analyze the trends per month, we can adjust the 2022 to 2023 rate with predicted amount of EVs to register for december, then make a more accurate prediction of the trend. We can evaluate MAPE and use the MAPE to evaluate** We'll do "years since 2017" for our predictor value
-* [ ] plot months in all years, using the average assume that to be the change we expect in december (we must first subtract the december count from 2023)
-    * For each month, calculate confidence interval. This is sample with t, we don't have population (in this case, it's every year). (on average with confidence p, month tends to be between this)
-    * Then for december, extract mean just the mean. If confidence too low, we can instead look at trend and use its prediction.
-* [ ] Create Logarithmic regression on the years and perform MAPE and k=1-cross-validation.
 * [ ] Geometric Heatmap using the coords in one of the datasets
 * [ ] Map out top brand in all of Washington
 * [ ] Map out top brand in each county
