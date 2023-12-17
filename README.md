@@ -23,4 +23,6 @@
 
 **Data Analysis**
 * https://www.irs.gov/credits-deductions/credits-for-new-clean-vehicles-purchased-in-2023-or-after
-* https://www.indeed.com/career-advice/career-development/what-is-mape#:~:text=Calculate%20the%20MAPE&text=Add%20all%20the%20absolute%20percent,final%20result%20is%20the%20MAPE.
+* https://www.indeed.com/career-advice/career-development/what-is-mape#:~:text=Calculate%20the%20MAPE&text=Add%20all%20the%20absolute%20percent,final%20result%20is%20the%20MAPE
+* https://www.section.io/engineering-education/exponential-regression-in-python/
+* https://towardsdatascience.com/modeling-functions-78704936477a#7b2b
