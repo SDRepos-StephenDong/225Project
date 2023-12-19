@@ -1,8 +1,17 @@
 # 225Project
+Link to HTML Version of Notebook: 
+### Objectives
+1. 
+2. 
+3.
 
-### Remaining Analysis Tasks
-* Note: reasoning for using mean of diff between november and december is b/c monthly trends may affect, we can predict with linear regression, but that takes acocunt trend of that year only. Similar to how we can expect more gift purchases in December due to the holidarys, but using linear regression will not account for this repetitive spike.
- 
+### Planned (Actual) Distribution of Work
+* Understanding the Data - 2 hours (~5 hours)
+* Preprocess and Data Extraction - 2 hours (~2 hours)
+* Visualizations and Analaysis - 3 hours (~8 hours, in consequence of incorrect initial descriptions and understandings of the data)
+* Prediction and Evaluation - 4 hours (~3 hours)
+* Methodology and Background Research - 4 hours (~4 hours)
+* Research Paper - 5 hours (~8 hours)
 
 ### Datasets
 **Main Datasets**
@@ -12,15 +21,11 @@
 **Supplementary Datasets**
 * https://eric.clst.org/tech/usgeojson/ (500Ks)
 
-### Supportive Sites
+### References
 **Programming**
 * https://towardsdatascience.com/creating-choropleth-maps-with-pythons-folium-library-cfacfb40f56a
 * https://medium.com/analytics-vidhya/create-and-visualize-choropleth-map-with-folium-269d3fd12fa0
-* https://towardsdatascience.com/how-to-step-up-your-folium-choropleth-map-skills-17cf6de7c6fe
-* https://cairosvg.org/
-* https://www.section.io/engineering-education/exponential-regression-in-python/
 * https://towardsdatascience.com/modeling-functions-78704936477a#7b2b
-* https://python-graph-gallery.com/312-add-markers-on-folium-map/
 
 **Data Analysis**
 * https://www.irs.gov/credits-deductions/credits-for-new-clean-vehicles-purchased-in-2023-or-after
