@@ -1,6 +1,6 @@
 # ECE225A Project: Analysis and Prediction of Electric Vehicle Ownership in Washington State
 #### Stephen Dong (A69026970)
-Link to HTML (Interactable) Version of Notebook: https://pikasannnnn.github.io/Unlinked_Projects/EV_Analysis_StephenDong_A69026970.html
+Link to HTML (Interactable) Version of Notebook: [https://pikasannnnn.github.io/Unlinked_Projects/EV_Analysis_StephenDong_A69026970.html](https://pikasannnnn.github.io/Unlinked_Projects/ECE225A/EV_Analysis_StephenDong_A69026970.html)
 ### Objectives
 Observation of the trend and distribution of EV ownership to gain some insights and predictions that may benefit automakers plan their manufacturing and sales.
 1. What does the trend of EV ownership look like in Washington?
