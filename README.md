@@ -35,6 +35,12 @@ Observation of the trend and distribution of EV ownership to gain some insights 
 * https://medium.com/analytics-vidhya/create-and-visualize-choropleth-map-with-folium-269d3fd12fa0
 * https://towardsdatascience.com/modeling-functions-78704936477a#7b2b
 
+**Module APIs**
+* https://plotly.com/python-api-reference/
+* https://numpy.org/doc/stable/reference/index.html#reference
+* https://pandas.pydata.org/docs/reference/index.html#api
+* https://python-visualization.github.io/folium/latest/reference.html
+
 ### Planned (Actual) Distribution of Work
 * Understanding the Data - 2 hours (~5 hours)
 * Preprocess and Data Extraction - 2 hours (~2 hours)
